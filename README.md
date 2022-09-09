@@ -1,5 +1,7 @@
 <h1>Hi! 👋 I'm Rayane Celes, nickname Ray!</h1>
 
+PS.: Projects will be made available soon. Profile in update.
+
 - 🔭 I’m currently looking for jobs
 - 🌱 I’m currently learning back-end
 - 📫 How to reach me: rayane.celes@gmail.com
