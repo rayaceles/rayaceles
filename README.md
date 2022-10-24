@@ -3,7 +3,8 @@
 PS.: Projects will be made available soon. Profile in update.
 
 - 🔭 I’m currently looking for jobs
-- 🌱 I’m currently learning back-end
+- 🗂 I'm learning computer science
+- 🌱 I just finished back-end back-end module. I'm full-stack now!!!
 - 📫 How to reach me: rayane.celes@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: my nickname pronunciation in portuguese is like "Hi"
