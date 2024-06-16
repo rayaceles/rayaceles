@@ -1,13 +1,13 @@
 <h1>Hi! 👋 I'm Rayane Celes, nickname Ray!</h1>
 
-PS.: Projects will be made available soon. Profile in update.
+PS.: Unfortunately, my project updates don't appear here! 😅
 
-- 🔭 I’m currently working in Global Hitss
-- 🗂 I'm studing english again, to improve my language
-- 🌱 I finished my development course. I'm software engineer now!!!
+- 💻 I’m currently working in Global Hitss
+- 🗣️ I'm studing english again, to improve my language
+- 👩🏽‍💻 I'm a Data engineer!!!
 - 📫 How to reach me: rayane.celes@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: my nickname pronunciation in portuguese is like "Hi"
+- 👩🏽 Pronouns: she/her
+- 😂 Fun fact: my nickname pronunciation in portuguese is like "Hi"
 
 ##
 
